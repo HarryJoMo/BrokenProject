@@ -1,0 +1,26 @@
+5 projects
+
+1.Christopher Johnson's ASCII Art Collection 2018
+https://asciiart.website/index.php?art=art%20and%20design/famous%20paintings
+
+2.The Uncomfortable - a collection of deliberately inconvenient objects
+https://www.theuncomfortable.com/
+
+3.Glitch  Art  Is  Dead
+http://www.gamutgallerympls.com/2017/02/10/glitch-art-is-dead/
+
+4.Errozero Glitchatron
+http://www.errozero.co.uk/glitchatron/
+
+5.Biborg Lab - Motion Sensor with Kinect 1 and Processing
+https://www.youtube.com/watch?v=xw-7R1tRvdM
+
+1.Christopher Johnson's ASCII Art Collection is a collection of famous paintings recreated with characters from the American Standard Code for Information Interchange.
+
+2.The Uncomfortable is the creation of Athens-based architect Katerina Kamprani, creating models of everyday objects redesigned to be unable to perform their usual functions.
+
+3.Glitch Art Is Dead is an international artistic project that celebrates malfunctions of digital systems, and computer errors that can turn images into bizarre and colorful compositions.
+
+4.Glitchatron is a javascript glitch art generator developed by Errozero, any image submitted will be glitched into a 'broken' state.
+
+5.Biborg Lab utilised an Xbox Kinect 1 to create a live feed that censors any humanoid figure that appears on screen with a static overlay.
